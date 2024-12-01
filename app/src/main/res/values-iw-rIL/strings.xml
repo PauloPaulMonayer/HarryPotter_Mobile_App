@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">הארי פוטר</string>
+    <string name="homeTitle">הארי פוטר ואוצרות המוות</string>
+    <string name="infoButton">על הסרט</string>
+    <string name="galleryButton"> גלרית תמונות</string>
+    <string name="ticketsButton">להזמנת כרטיסים</string>
+    <string name="MyticketsButton">הכרטיסים שלי</string>
+    <string name="tv_title1">הארי פוטר ואוצרות המוות</string>
+    <string name="tv_description">הארי פוטר ואוצרות המוות עוקב אחר הארי, הרמיוני ורון כשהם יוצאים למסע מסוכן להשמיד את ההורקרוקסים של וולדמורט, חפצים המכילים שברי נשמתו. השלישייה מתמודדת עם בגידה, אובדן וקרבות כשהם חושפים את האגדה על אוצרות המוות - שלושה חפצים קסומים רבי עוצמה. הסיפור מתפתח לעימות שיא בהוגוורטס, שבו כוחותיו של וולדמורט מתנגשים עם בני בריתו של הארי בקרב אפי. הארי מגלה שהוא הורקרוקס ומקריב את עצמו, רק כדי לחזור ולהביס את וולדמורט בדו-קרב אחרון. השלום חוזר על כנו, והסיפור מסתיים בכך שהארי וחבריו, שנים מאוחר יותר, שולחים את ילדיהם להוגוורטס.</string>
+    <string name="tv_title">הזמן את הכרטיסים </string>
+    <string name="tv_select_quantity">כמות כרטיסים</string>
+    <string name="tv_ticket_type">סוג כרטיס</string>
+    <string name="rb_adult">מבוגר</string>
+    <string name="rb_child">ילד</string>
+    <string name="btn_select_date"> בחירת תאריך</string>
+    <string name="tv_select_theatre"> בחירת תאטרון</string>
+    <string name="tv_total_price">מחיר כולל:</string>
+    <string name="btn_get_tickets">לקנייה</string>
+    <string name="tv_tickets_title">ההזמנות שלי</string>
+    <string name="tv_preview_title">אישור ההזמנה</string>
+    <string name="tv_ticket_details">מידע על ההזמנה יופיע פה</string>
+    <string name="btn_confirm">אשר</string>
+    <string name="btn_cancel">ביטול</string>
+
+
+</resources>

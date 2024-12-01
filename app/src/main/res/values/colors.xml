@@ -1,0 +1,17 @@
+<resources>
+    <color name="light_background">#F9F9F9</color>
+    <color name="primary_text">#333333</color>
+    <color name="secondary_text">#555555</color>
+    <color name="primary_button">#6200EE</color>
+    <color name="dark_background">#121212</color>
+    <color name="primary_light_text">#FFFFFF</color>
+    <color name="secondary_light_text">#1E1E1E</color>
+    <color name="accent_color">#FF5722</color>
+    <color name="primary_text_light">#FFFFFF</color>
+    <color name="secondary_text_light">#B3B3B3</color>
+
+    <color name="black_background">#121212</color>
+    <color name="gray_text">#B3B3B3</color>
+    <color name="white_text">#FFFFFF</color>
+    <color name="primary_button_dark">#555555</color>
+</resources>

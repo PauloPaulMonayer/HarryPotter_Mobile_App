@@ -1,0 +1,43 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_background" >
+
+
+<ImageView
+        android:id="@+id/iv_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/harry_back7"
+        android:scaleType="centerCrop"
+        android:alpha="0.3" />
+
+    <!-- ScrollView -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:id="@+id/ll_tickets_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- כותרת -->
+            <TextView
+                android:id="@+id/tv_tickets_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/tv_tickets_title"
+                android:textSize="26sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="@color/primary_light_text"
+                android:layout_marginBottom="20dp"
+                android:padding="12dp"
+                android:elevation="4dp" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

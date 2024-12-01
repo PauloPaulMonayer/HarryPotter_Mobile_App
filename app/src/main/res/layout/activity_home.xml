@@ -1,0 +1,90 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context="HomeActivity">
+
+    <ImageView
+        android:id="@+id/iv_poster"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:alpha="0.4"
+        android:scaleType="centerCrop"
+        android:src="@drawable/harry_back2"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/homeTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="@string/homeTitle"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/infoButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/infoButton"
+        android:textColor="@android:color/white"
+        android:backgroundTint="@android:color/secondary_text_light"
+        app:layout_constraintTop_toBottomOf="@id/homeTitle"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_margin="8dp" />
+
+    <!-- כפתור לתמונות -->
+    <Button
+        android:id="@+id/galleryButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/galleryButton"
+        android:textColor="@android:color/white"
+        android:backgroundTint="@android:color/secondary_text_light"
+        app:layout_constraintTop_toBottomOf="@id/infoButton"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_margin="8dp" />
+
+    <!-- כפתור להזמנת כרטיסים -->
+    <Button
+        android:id="@+id/ticketsButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:layout_marginTop="72dp"
+        android:backgroundTint="@android:color/secondary_text_light"
+        android:text="@string/ticketsButton"
+        android:textColor="@android:color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/galleryButton" />
+
+    <!-- כפתור להזמנת כרטיסים -->
+    <Button
+        android:id="@+id/MyticketsButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:layout_marginTop="72dp"
+        android:backgroundTint="@android:color/secondary_text_light"
+        android:text="@string/MyticketsButton"
+        android:textColor="@android:color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ticketsButton" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

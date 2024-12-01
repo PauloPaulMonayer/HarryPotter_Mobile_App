@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HarryPotter</string>
+    <string name="homeTitle">Harry Potter And The Deathly Hallows</string>
+    <string name="infoButton">About The Movie</string>
+    <string name="galleryButton">Photo Gallery</string>
+    <string name="ticketsButton">For Tickets</string>
+    <string name="MyticketsButton">My Tickets</string>
+    <string name="tv_title1">Harry Potter and the Deathly Hallows</string>
+    <string name="tv_description">Harry Potter and the Deathly Hallows follows Harry, Hermione, and Ron as they embark on a dangerous quest to destroy Voldemort\'s Horcruxes, objects that contain fragments of his soul. The trio faces betrayal, loss, and battles as they uncover the legend of the Deathly Hallows—three powerful magical objects. The story builds to a climactic confrontation at Hogwarts, where Voldemort’s forces clash with Harry’s allies in an epic battle. Harry discovers he is a Horcrux and sacrifices himself, only to return and defeat Voldemort in a final duel. Peace is restored, and the story concludes with Harry and his friends, years later, sending their own children to Hogwarts.</string>
+    <string name="tv_title">Order Your Tickets</string>
+    <string name="tv_select_quantity">Select Quantity:</string>
+    <string name="tv_ticket_type">Ticket Type:</string>
+    <string name="rb_adult">Adult</string>
+    <string name="rb_child">Child</string>
+    <string name="btn_select_date">Pick a Date</string>
+    <string name="tv_select_theatre">Select Theatre:</string>
+    <string name="tv_total_price">Total Price:</string>
+    <string name="btn_get_tickets">Get Tickets</string>
+    <string name="tv_tickets_title">Your Ordered Tickets</string>
+    <string name="tv_preview_title">Confirm Your Order</string>
+    <string name="tv_ticket_details">Details of the ticket will appear here.</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_cancel">Cancel</string>
+
+</resources>

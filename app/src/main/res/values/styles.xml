@@ -1,0 +1,7 @@
+<resources>
+    <!-- סגנונות קיימים -->
+    <style name="DialogBounceAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_bottom</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_top</item>
+    </style>
+</resources>
