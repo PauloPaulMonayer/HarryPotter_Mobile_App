@@ -22,15 +22,6 @@ This is an Android application designed as an interactive poster for the movie *
 
 ---
 
-## 📱 Screenshots
-### Home Screen
-<img src="screenshots/Home.png" width="300">
-
-### Ticket Ordering
-<img src="screenshots/FOR_TICKETS.png" width="300">
-
-### Movie Information
-<img src="screenshots/INFO.png" width="300">
 
 ---
 
