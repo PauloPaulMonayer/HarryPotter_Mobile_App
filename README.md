@@ -4,9 +4,6 @@ Welcome to the **Harry Potter Interactive Poster** app!
 This is an Android application designed as an interactive poster for the movie *Harry Potter and the Deathly Hallows*. It includes dynamic features that allow users to learn about the movie, browse images, and order tickets for viewing. The app provides a visually appealing UI with a smooth user experience.
 
 ---
-![INFO](https://github.com/user-attachments/assets/ce77b8be-47c8-45c2-8187-4b5262d87942)
-![FOR TICKETS](https://github.com/user-attachments/assets/df4b0496-cc4d-477d-9268-2797872ab1d0)
-![Home](https://github.com/user-attachments/assets/39c867ff-8030-4cea-999c-750334e0a29c)
 
 ## 🌟 Features
 - **Interactive Movie Summary**: Displays an introduction and summary of the movie.
@@ -27,13 +24,13 @@ This is an Android application designed as an interactive poster for the movie *
 
 ## 📱 Screenshots
 ### Home Screen
-<img src="screenshots/home_screen.png" width="300">
+<img src="screenshots/Home.png" width="300">
 
 ### Ticket Ordering
-<img src="screenshots/ticket_ordering.png" width="300">
+<img src="screenshots/FOR_TICKETS.png" width="300">
 
-### Ticket Confirmation Dialog
-<img src="screenshots/ticket_dialog.png" width="300">
+### Movie Information
+<img src="screenshots/INFO.png" width="300">
 
 ---
 
